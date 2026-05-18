@@ -1,0 +1,7 @@
+# requirements.txt
+streamlit==1.29.0
+groq==0.4.2
+python-dotenv==1.0.0
+pandas==2.1.0
+plotly==5.17.0
+pillow==10.0.0
